@@ -34,8 +34,7 @@ const GlobalStyle = createGlobalStyle`
 
 body {
     margin: 0;
-    height: 100vh;
-    overflow-x: hidden;
+    min-height: 100vh;
 }
 
 header {
@@ -58,22 +57,19 @@ p {
 
 main {
     width: 100%;
+    text-align: center;
+    max-width: 800px;
     display: grid;
-    align-items: center;
-    padding: 0px var(--spacing-md) 0px var(--spacing-md); 
+    margin: auto;
+    align-content: center;
+    min-height: 100vh;
+  }
 
     @media (min-width: 480px) {
         margin-left: auto;
         margin-right: auto;
         padding: 0px;
     }
-}
-
-div {
-    max-width: 800px;
-    text-align: center;
-    position: relative;
-    margin: 0 auto;
 }
 
 button {

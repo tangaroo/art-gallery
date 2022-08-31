@@ -58,21 +58,18 @@ export default function App() {
       <main tabIndex={0} onKeyDown={keyDownHandler}>
         <Header />
         <p>{content[index].number}</p>
-        <div>
           <Image
             src={content[index].img}
             alt="{content[index].alt}"
             onClick={handleNext}
-            layout="responsive"
-            height="100%"
-            width="100%"
-            objectFit="contain"
+            width={100}
+            height={100}
+            layout="responsive" 
           />
-        </div>
         <h2>
           {content[index].title} ({content[index].date})
         </h2>
-        <footer>
+         <footer>
           <button onClick={handlePrev}>←</button>
           <button onClick={handleRandom}>⚅</button>
           <button onClick={handleNext}>→</button>
