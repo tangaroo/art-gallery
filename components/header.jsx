@@ -11,5 +11,5 @@ const HeaderComponent = () => (
 export default HeaderComponent;
 
 const Header = styled.header`
-  padding: 40px 0px;
+  padding: var(--spacing-lg) 0px;
 `;

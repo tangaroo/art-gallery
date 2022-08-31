@@ -1,5 +1,7 @@
 import { createGlobalStyle } from "styled-components";
 
+//TODO: Focus states on mobile for buttons
+
 const GlobalStyle = createGlobalStyle`
 @font-face {
   font-family: "Zodiak Light";
@@ -32,6 +34,7 @@ const GlobalStyle = createGlobalStyle`
 
 body {
     margin: 0;
+    height: 100vh;
     overflow-x: hidden;
 }
 
@@ -54,8 +57,9 @@ p {
 }
 
 main {
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    display: grid;
+    align-items: center;
     padding: 0px var(--spacing-md) 0px var(--spacing-md); 
 
     @media (min-width: 480px) {
@@ -66,16 +70,10 @@ main {
 }
 
 div {
-    width: 100%;
-    height: 100%;
+    max-width: 800px;
     text-align: center;
-}
-
-img {
-    display: block;
-    max-height: 60%;
+    position: relative;
     margin: 0 auto;
-    max-width: 100%;
 }
 
 button {

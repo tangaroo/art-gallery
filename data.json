@@ -2,241 +2,259 @@
   {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/1.png",
+    "img": "/images/1.png",
+    "alt": "Untitled artwork",
     "number": "01"
   },
   {
     "title": "Untitled",
     "date": "1994",
-    "img": "./images/2.png",
+    "img": "/images/2.png",
+    "alt": "Untitled artwork",
     "number": "02"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/3.png",
+    "img": "/images/3.png",
+    "alt": "Untitled artwork",
     "number": "03"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/4.png",
+    "img": "/images/4.png",
+    "alt": "Untitled artwork",
     "number": "04"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/5.png",
+    "img": "/images/5.png",
+    "alt": "Untitled artwork",
     "number": "05"
   },
     {
     "title": "Lady With Hat",
     "date": "2001",
-    "img": "./images/6.png",
+    "img": "/images/6.png",
+    "alt": "Lady with Hat",
     "number": "06"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/7.png",
+    "img": "/images/7.png",
+    "alt": "Untitled artwork",
     "number": "07"
   },
     {
     "title": "Mandrills",
     "date": "1976",
-    "img": "./images/8.png",
+    "img": "/images/8.png",
+    "alt": "Mandrills",
     "number": "08"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/9.png",
+    "img": "/images/9.png",
+    "alt": "Untitled artwork",
     "number": "09"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/10.png",
+    "img": "/images/10.png",
+    "alt": "Untitled artwork",
     "number": "10"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/11.png",
+    "img": "/images/11.png",
+    "alt": "Untitled artwork",
     "number": "11"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/12.png",
+    "img": "/images/12.png",
+    "alt": "Untitled artwork",
     "number": "12"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/13.png",
+    "img": "/images/13.png",
+    "alt": "Untitled artwork",
     "number": "13"
   },
     {
     "title": "Foursquare",
     "date": "n.d",
-    "img": "./images/14.png",
+    "img": "/images/14.png",
+    "alt": "Foursquare",
     "number": "14"
   },
     {
     "title": "X0X",
     "date": "n.d",
-    "img": "./images/15.png",
+    "img": "/images/15.png",
+    "alt": "X0X",
     "number": "15"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/16.png",
+    "img": "/images/16.png",
+    "alt": "Untitled artwork",
     "number": "16"
   },
     {
     "title": "Untitled",
     "date": "1978",
-    "img": "./images/17.png",
+    "img": "/images/17.png",
+    "alt": "Untitled artwork",
     "number": "17"
   },
     {
     "title": "Girl from France",
     "date": "n.d",
-    "img": "./images/18.png",
+    "img": "/images/18.png",
+    "alt": "Girl from France",
     "number": "18"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/16.png",
+    "img": "/images/16.png",
     "number": "19"
   },
     {
     "title": "Wee Muzzy",
     "date": "n.d",
-    "img": "./images/20.png",
+    "img": "/images/20.png",
     "number": "20"
   },
     {
     "title": "Untitled",
     "date": "2009",
-    "img": "./images/21.png",
+    "img": "/images/21.png",
     "number": "21"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/22.png",
+    "img": "/images/22.png",
     "number": "22"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/23.png",
+    "img": "/images/23.png",
     "number": "23"
   },
     {
     "title": "The Sad Woman",
     "date": "n.d",
-    "img": "./images/24.png",
+    "img": "/images/24.png",
     "number": "24"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/25.png",
+    "img": "/images/25.png",
     "number": "25"
   },
     {
     "title": "Boy with Red Ears",
     "date": "n.d",
-    "img": "./images/26.png",
+    "img": "/images/26.png",
     "number": "26"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/27.png",
+    "img": "/images/27.png",
     "number": "27"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/28.png",
+    "img": "/images/28.png",
     "number": "28"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/29.png",
+    "img": "/images/29.png",
     "number": "29"
   },
     {
     "title": "Untitled",
     "date": "2001",
-    "img": "./images/30.png",
+    "img": "/images/30.png",
     "number": "30"
   },
     {
     "title": "Untitled",
-    "date": "1979",
-    "img": "./images/31.png",
+    "date": "1978",
+    "img": "/images/31.png",
     "number": "31"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/32.png",
+    "img": "/images/32.png",
     "number": "32"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/33.png",
+    "img": "/images/33.png",
     "number": "33"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/34.png",
+    "img": "/images/34.png",
     "number": "34"
   },
     {
     "title": "Untitled",
     "date": "1993",
-    "img": "./images/35.png",
+    "img": "/images/35.png",
     "number": "35"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/36.png",
+    "img": "/images/36.png",
     "number": "36"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/37.png",
+    "img": "/images/37.png",
     "number": "37"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/38.png",
+    "img": "/images/38.png",
     "number": "38"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/39.png",
+    "img": "/images/39.png",
     "number": "39"
   },
     {
     "title": "Untitled",
     "date": "n.d",
-    "img": "./images/40.png",
+    "img": "/images/40.png",
     "number": "40"
   }
 ]

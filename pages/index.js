@@ -1,6 +1,5 @@
-/* eslint-disable @next/next/no-img-element */
-import React from "react";
-import { useState } from "react";
+import Image from "next/image";
+import React, { useState, useEffect } from "react";
 
 import content from "../data.json";
 import GlobalStyle from "../styles/styles.js";
@@ -10,6 +9,14 @@ import Header from "../components/header";
 export default function App() {
   const [index, setIndex] = useState(0);
   const gallerySlides = content.length;
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setIndex(gallerySlides === index + 1 ? 0 : index + 1);
+    }, 5000);
+
+    return () => clearInterval(interval);
+  });
 
   const handleNext = () => {
     setIndex(gallerySlides === index + 1 ? 0 : index + 1);
@@ -51,7 +58,17 @@ export default function App() {
       <main tabIndex={0} onKeyDown={keyDownHandler}>
         <Header />
         <p>{content[index].number}</p>
-        <img src={content[index].img} />
+        <div>
+          <Image
+            src={content[index].img}
+            alt="{content[index].alt}"
+            onClick={handleNext}
+            layout="responsive"
+            height="100%"
+            width="100%"
+            objectFit="contain"
+          />
+        </div>
         <h2>
           {content[index].title} ({content[index].date})
         </h2>
